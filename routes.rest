@@ -42,11 +42,11 @@ DELETE http://localhost:8080/contacts/6220b77509 9269ff7b31ceab HTTP/1.1
 
 // PRODUCTION Deploy
 ### Get all contacts
-GET https://cse341-robker.onrender.com/contacts HTTP/1.1
+GET https://cse341-robker.onrender.com HTTP/1.1
 
 
-### Get contact by id
-GET https://cse341-instructor.herokuapp.com/contacts/622023f642f9ab4cd6e060b3
+# ### Get contact by id
+# GET https://cse341-instructor.herokuapp.com/contacts/622023f642f9ab4cd6e060b3
 
 
 # ### Create contact
