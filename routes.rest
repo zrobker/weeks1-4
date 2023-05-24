@@ -34,11 +34,11 @@ content-type: application/json
     "firstName":"Sarah",
     "lastName":"Robker",
     "email":"sarahrobker@test.com",
-    "favoriteColor":"Pink",
+    "favoriteColor":"Light Pink",
     "birthday":"09/24/96"
 }
 ### DELETE contact
-DELETE http://localhost:8080/contacts/646befa71fabcce8d1612989 HTTP/1.1
+DELETE http://localhost:8080/contacts/646bf6c322eeb25a46c27217 HTTP/1.1
 
 ---------------------------------------------------------------------------------
 
@@ -78,8 +78,8 @@ content-type: application/json
     "firstName":"Sarah",
     "lastName":"Robker",
     "email":"sarahrobker@test.com",
-    "favoriteColor":"Light Pink",
+    "favoriteColor":"Pink",
     "birthday":"09/24/96"
 }
 ### DELETE contact
-DELETE https://cse341-robker.onrender.com/contacts/646bf095c340913d822c798f HTTP/1.1
+DELETE https://cse341-robker.onrender.com/contacts/646bf6f21d995ccd0cdaea77 HTTP/1.1
