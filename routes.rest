@@ -34,7 +34,7 @@ content-type: application/json
     "firstName":"Sarah",
     "lastName":"Robker",
     "email":"sarahrobker@test.com",
-    "favoriteColor":"Light Pink",
+    "favoriteColor":"Pink",
     "birthday":"09/24/96"
 }
 ### DELETE contact

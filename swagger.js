@@ -3,7 +3,7 @@ const swaggerAutogen = require('swagger-autogen')();
 const doc = {
   info: {
     title: 'My API',
-    description: 'Temple API'
+    description: 'Contact API'
   },
   host: 'cse341-robker.onrender.com',
   schemes: ['https']
